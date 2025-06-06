@@ -1,0 +1,17 @@
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+
+# Docker files
+docker-compose.yml
+docker-compose.*.yml
+
+# Editor/IDE files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
